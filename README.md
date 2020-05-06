@@ -28,6 +28,7 @@ Remove extra indentation from multiline strings.
 
 [![npm][outdent-npm-badge]][outdent-npm-url]
 [![no dependencies][outdent-dependencies-badge]][outdent-dependencies-url]
+[![][outdent-size-badge]][outdent-npm-url]
 [![last commit][outdent-last-commit]][outdent]
 
 [outdent]: https://github.com/mvasilkov/outdent
@@ -35,6 +36,7 @@ Remove extra indentation from multiline strings.
 [outdent-npm-url]: https://www.npmjs.com/package/@mvasilkov/outdent
 [outdent-dependencies-badge]: https://img.shields.io/david/mvasilkov/outdent?style=flat
 [outdent-dependencies-url]: https://www.npmjs.com/package/@mvasilkov/outdent?activeTab=dependencies
+[outdent-size-badge]: https://img.shields.io/github/size/mvasilkov/outdent/javascript/outdent.js.svg?style=flat
 [outdent-last-commit]: https://img.shields.io/github/last-commit/mvasilkov/outdent?style=flat
 
 
