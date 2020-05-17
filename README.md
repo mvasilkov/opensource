@@ -74,3 +74,25 @@ Next.js Redux coupling.
 [next-redux-dependencies-url]: https://www.npmjs.com/package/next-redux?activeTab=dependencies
 [next-redux-size-badge]: https://img.shields.io/github/size/mvasilkov/next-redux/app.js.svg?style=flat
 [next-redux-last-commit]: https://img.shields.io/github/last-commit/mvasilkov/next-redux?style=flat
+
+
+[cmark-gfm][cmark-gfm]
+---
+
+[cmark-gfm]: https://github.com/mvasilkov/cmark-gfm
+
+GitHub Flavored Markdown ¦ Native bindings for cmark-gfm, GitHub's fork of cmark, a CommonMark parsing and rendering library.
+
+[![npm][cmark-gfm-npm-badge]][cmark-gfm-npm-url]
+[![dependencies][cmark-gfm-dependencies-badge]][cmark-gfm-dependencies-url]
+[![travis][cmark-gfm-travis-badge]][cmark-gfm-travis-url]
+[![appveyor][cmark-gfm-appveyor-badge]][cmark-gfm-appveyor-url]
+
+[cmark-gfm-npm-badge]: https://img.shields.io/npm/v/@mvasilkov/cmark-gfm.svg?style=flat
+[cmark-gfm-npm-url]: https://www.npmjs.com/package/@mvasilkov/cmark-gfm
+[cmark-gfm-dependencies-badge]: https://img.shields.io/david/mvasilkov/cmark-gfm?style=flat
+[cmark-gfm-dependencies-url]: https://www.npmjs.com/package/@mvasilkov/cmark-gfm?activeTab=dependencies
+[cmark-gfm-travis-badge]: https://img.shields.io/travis/mvasilkov/cmark-gfm/@mvasilkov/cmark-gfm?style=flat
+[cmark-gfm-travis-url]: https://travis-ci.org/github/mvasilkov/cmark-gfm
+[cmark-gfm-appveyor-badge]: https://ci.appveyor.com/api/projects/status/2w02o0n3vpid13ho/branch/@mvasilkov/cmark-gfm?svg=true
+[cmark-gfm-appveyor-url]: https://ci.appveyor.com/project/mvasilkov/cmark-gfm
